@@ -1,0 +1,8 @@
+cython
+numpy
+loguru
+numba
+mmdet==2.25.2
+scikit-image
+albumentations>=0.3.2
+ninja
